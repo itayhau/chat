@@ -11,7 +11,7 @@
 * מבנה תוכנית Java בסיסית
 * הכרת ה-Java Virtual Machine (JVM)
 * יצירת פרויקט ראשון ב-Java
-* הדפסה למסך באמצעות `System.out.println()`
+* הדפסה למסך באמצעות `System.out.println`
 * תיעוד קוד באמצעות הערות (Comments)
 
 ### תרגול
